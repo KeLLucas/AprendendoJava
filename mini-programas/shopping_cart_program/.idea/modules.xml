@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MathMethods/MathMethods.iml" filepath="$PROJECT_DIR$/../MathMethods/MathMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../arrays/arrays.iml" filepath="$PROJECT_DIR$/../arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bankProgram/bankProgram.iml" filepath="$PROJECT_DIR$/../bankProgram/bankProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../breakContinue/breakContinue.iml" filepath="$PROJECT_DIR$/../breakContinue/breakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calculatorProgram/calculatorProgram.iml" filepath="$PROJECT_DIR$/../calculatorProgram/calculatorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../compoundInterest/compoundInterest.iml" filepath="$PROJECT_DIR$/../compoundInterest/compoundInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diceRollProgram/diceRollProgram.iml" filepath="$PROJECT_DIR$/../diceRollProgram/diceRollProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../enhancedSwitch/enhancedSwitch.iml" filepath="$PROJECT_DIR$/../enhancedSwitch/enhancedSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../forLoops/forLoops.iml" filepath="$PROJECT_DIR$/../forLoops/forLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../logicalOperators/logicalOperators.iml" filepath="$PROJECT_DIR$/../logicalOperators/logicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../methods/methods.iml" filepath="$PROJECT_DIR$/../methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nestedLoop/nestedLoop.iml" filepath="$PROJECT_DIR$/../nestedLoop/nestedLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../numberGuessingGame/numberGuessingGame.iml" filepath="$PROJECT_DIR$/../numberGuessingGame/numberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../overloadedMethods/overloadedMethods.iml" filepath="$PROJECT_DIR$/../overloadedMethods/overloadedMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../printf/printf.iml" filepath="$PROJECT_DIR$/../printf/printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../random_numbers/random_numbers.iml" filepath="$PROJECT_DIR$/../random_numbers/random_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping_cart_program.iml" filepath="$PROJECT_DIR$/shopping_cart_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stringMethods/stringMethods.iml" filepath="$PROJECT_DIR$/../stringMethods/stringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../temperatureConverter/temperatureConverter.iml" filepath="$PROJECT_DIR$/../temperatureConverter/temperatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ternatyOperator/ternatyOperator.iml" filepath="$PROJECT_DIR$/../ternatyOperator/ternatyOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../username/username.iml" filepath="$PROJECT_DIR$/../username/username.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../variableScope/variableScope.iml" filepath="$PROJECT_DIR$/../variableScope/variableScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weightConversionProgram/weightConversionProgram.iml" filepath="$PROJECT_DIR$/../weightConversionProgram/weightConversionProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/../whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>
