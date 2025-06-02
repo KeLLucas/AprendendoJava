@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/MathMethods/MathMethods.iml" filepath="$PROJECT_DIR$/AprendendoJava/MathMethods/MathMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/arrays/arrays.iml" filepath="$PROJECT_DIR$/AprendendoJava/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/bankProgram/bankProgram.iml" filepath="$PROJECT_DIR$/mini-programas/bankProgram/bankProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/breakContinue/breakContinue.iml" filepath="$PROJECT_DIR$/AprendendoJava/breakContinue/breakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/calculatorProgram/calculatorProgram.iml" filepath="$PROJECT_DIR$/mini-programas/calculatorProgram/calculatorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/compoundInterest/compoundInterest.iml" filepath="$PROJECT_DIR$/mini-programas/compoundInterest/compoundInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/diceRollProgram/diceRollProgram.iml" filepath="$PROJECT_DIR$/mini-programas/diceRollProgram/diceRollProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/enhancedSwitch/enhancedSwitch.iml" filepath="$PROJECT_DIR$/AprendendoJava/enhancedSwitch/enhancedSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/enterUserInputIntoAnArray/enterUserInputIntoAnArray.iml" filepath="$PROJECT_DIR$/AprendendoJava/enterUserInputIntoAnArray/enterUserInputIntoAnArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/forLoops/forLoops.iml" filepath="$PROJECT_DIR$/AprendendoJava/forLoops/forLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/logicalOperators/logicalOperators.iml" filepath="$PROJECT_DIR$/AprendendoJava/logicalOperators/logicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/methods/methods.iml" filepath="$PROJECT_DIR$/AprendendoJava/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/nestedLoop/nestedLoop.iml" filepath="$PROJECT_DIR$/AprendendoJava/nestedLoop/nestedLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/numberGuessingGame/numberGuessingGame.iml" filepath="$PROJECT_DIR$/mini-programas/numberGuessingGame/numberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/overloadedMethods/overloadedMethods.iml" filepath="$PROJECT_DIR$/AprendendoJava/overloadedMethods/overloadedMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/printf/printf.iml" filepath="$PROJECT_DIR$/AprendendoJava/printf/printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/random_numbers/random_numbers.iml" filepath="$PROJECT_DIR$/AprendendoJava/random_numbers/random_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/searchAnArray/searchAnArray.iml" filepath="$PROJECT_DIR$/AprendendoJava/searchAnArray/searchAnArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/shopping_cart_program/shopping_cart_program.iml" filepath="$PROJECT_DIR$/mini-programas/shopping_cart_program/shopping_cart_program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/stringMethods/stringMethods.iml" filepath="$PROJECT_DIR$/AprendendoJava/stringMethods/stringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/temperatureConverter/temperatureConverter.iml" filepath="$PROJECT_DIR$/mini-programas/temperatureConverter/temperatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/ternatyOperator/ternatyOperator.iml" filepath="$PROJECT_DIR$/AprendendoJava/ternatyOperator/ternatyOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/treinoJava.iml" filepath="$PROJECT_DIR$/.idea/treinoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/username/username.iml" filepath="$PROJECT_DIR$/AprendendoJava/username/username.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/varargs/varargs.iml" filepath="$PROJECT_DIR$/AprendendoJava/varargs/varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/variableScope/variableScope.iml" filepath="$PROJECT_DIR$/AprendendoJava/variableScope/variableScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/weightConversionProgram/weightConversionProgram.iml" filepath="$PROJECT_DIR$/mini-programas/weightConversionProgram/weightConversionProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/whileLoop/whileLoop.iml" filepath="$PROJECT_DIR$/AprendendoJava/whileLoop/whileLoop.iml" />
+    </modules>
+  </component>
+</project>
