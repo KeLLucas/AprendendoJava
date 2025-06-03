@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AprendendoJava/2dArrays/2dArrays.iml" filepath="$PROJECT_DIR$/AprendendoJava/2dArrays/2dArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/MathMethods/MathMethods.iml" filepath="$PROJECT_DIR$/AprendendoJava/MathMethods/MathMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/arrays/arrays.iml" filepath="$PROJECT_DIR$/AprendendoJava/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-programas/bankProgram/bankProgram.iml" filepath="$PROJECT_DIR$/mini-programas/bankProgram/bankProgram.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/mini-programas/numberGuessingGame/numberGuessingGame.iml" filepath="$PROJECT_DIR$/mini-programas/numberGuessingGame/numberGuessingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/overloadedMethods/overloadedMethods.iml" filepath="$PROJECT_DIR$/AprendendoJava/overloadedMethods/overloadedMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/printf/printf.iml" filepath="$PROJECT_DIR$/AprendendoJava/printf/printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini-programas/quizGame/quizGame.iml" filepath="$PROJECT_DIR$/mini-programas/quizGame/quizGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/random_numbers/random_numbers.iml" filepath="$PROJECT_DIR$/AprendendoJava/random_numbers/random_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/AprendendoJava/searchAnArray/searchAnArray.iml" filepath="$PROJECT_DIR$/AprendendoJava/searchAnArray/searchAnArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/mini-programas/shopping_cart_program/shopping_cart_program.iml" filepath="$PROJECT_DIR$/mini-programas/shopping_cart_program/shopping_cart_program.iml" />
